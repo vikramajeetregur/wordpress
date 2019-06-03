@@ -7,4 +7,7 @@ themes
 child theme 
 
 settings
+
+blogs
+
 completed task
