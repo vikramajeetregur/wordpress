@@ -1,3 +1,5 @@
 welcome to git hub
-h
-b
+post 
+pages
+categories 
+
