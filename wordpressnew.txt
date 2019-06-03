@@ -3,4 +3,7 @@ post
 pages
 categories 
 
+themes 
+child theme 
+
 settings
