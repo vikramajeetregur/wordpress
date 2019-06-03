@@ -4,3 +4,5 @@ pages
 categories 
 
 settings
+
+blogs
