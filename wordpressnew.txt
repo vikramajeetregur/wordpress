@@ -7,3 +7,4 @@ themes
 child theme 
 
 settings
+completed task
